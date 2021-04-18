@@ -1,0 +1,1 @@
+text("this site was created by a memeliceous young lad named black armstrong to sell the markets most quality memes");
